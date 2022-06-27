@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.0",
+    "libraryName": "1-15-ga-again",
+    "libraryId": "2a6b1ec4-cf9a-43be-b2db-12f7b17ea283",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "1-15-ga-again",
+    "solutionShortDescription": "1-15-ga-again description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

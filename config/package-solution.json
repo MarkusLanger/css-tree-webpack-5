@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "1-15-ga-again-client-side-solution",
+    "id": "2a6b1ec4-cf9a-43be-b2db-12f7b17ea283",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "1-15-ga-again description"
+      },
+      "longDescription": {
+        "default": "1-15-ga-again description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "1-15-ga-again Feature",
+        "description": "The feature that activates elements of the 1-15-ga-again solution.",
+        "id": "0c219a13-a2b8-4977-90c2-b96b3391aea6",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/1-15-ga-again.sppkg"
+  }
+}
